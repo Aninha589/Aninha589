@@ -5,3 +5,5 @@ Meu nome é Ana Clara
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus
 projetos desenvolvidos
+
+![snoopy](https://c.tenor.com/tEuL6o_d72gAAAAC/tenor.gif)
